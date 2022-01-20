@@ -1277,3 +1277,21 @@ a:hover {
 	height: 50px !important;
   margin-top: 5px;
 }
+
+
+.main-button-custom a {
+  display: inline-block;
+  font-size: 15px;
+  padding: 12px 20px;
+  background-color: #6b90f7;
+  color: #fff;
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+  transition: all .3s;
+}
+
+.main-button-custom a:hover {
+  background-color: #5b8df9;
+  color: #fff;
+}
